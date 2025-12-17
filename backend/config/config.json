@@ -1,0 +1,6 @@
+{
+    "student_id_pattern": "^abc-\\d+$",
+    "student_id_prefix": "abc-",
+    "name_exclusion_pattern": null,
+    "confidence_threshold": 0.5
+}
